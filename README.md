@@ -1,5 +1,4 @@
 # srinuvas
 this is my first repo
 <br>
-Auther : vasu koyya clear
-cl
+Auther : vasu koyya`
